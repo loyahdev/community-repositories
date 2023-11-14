@@ -1,0 +1,2 @@
+Repository Name: testrepo
+Repository Link: https://apple.com
