@@ -2,6 +2,7 @@
     "Shortcuts": [
         {
             "name": "idk1",
+            "shortDesc": "",
             "longDesc": "idk11",
             "link": "https://apple.com",
             "version": "1.0.0",
